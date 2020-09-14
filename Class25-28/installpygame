@@ -1,0 +1,11 @@
+#windows
+pip install pygame
+
+#mac
+pip3 install pygame
+
+or
+brew install mercurial
+brew install sdl sdl_image sdl_mixer sdl_ttf portmidi
+brew install smpeg
+pip install https://github.com/pygame/pygame/archive/1.9.4.zip
