@@ -9,3 +9,11 @@ brew install mercurial
 brew install sdl sdl_image sdl_mixer sdl_ttf portmidi
 brew install smpeg
 pip install https://github.com/pygame/pygame/archive/1.9.4.zip
+
+#verify -create python script
+
+import game
+
+running script gives message like below:
+pygame 1.9.6
+Hello from the pygame community. https://www.pygame.org/contribute.html
